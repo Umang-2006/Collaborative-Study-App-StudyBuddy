@@ -1,0 +1,15 @@
+# Environment & Secret files
+.env
+.env.local
+*.pem
+
+# Dependencies & Build folders
+node_modules/
+dist/
+build/
+out/
+
+# OS and IDE files
+.DS_Store
+.vscode/
+.idea/
